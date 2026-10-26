@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Khaddan/Khaddan/main/assets/banner.svg" width="100%" alt="Pixel art banner" />
+  <img src="https://raw.githubusercontent.com/Khaddan/Khaddan/main/asset/banner.svg" width="100%" alt="Pixel art banner" />
 </div>
 
 <div align="center">
